@@ -20,7 +20,7 @@ public class LoginPage {
 	private By logo = By.cssSelector("img[title='naveenopencart']");
 	private By register = By.linkText("Register");
 	
-	private By puneet = By.linkText("puneet");
+	
 //	private By unsucessfulMessg = By.xpath("//div[@class='alert alert-danger alert-dismissible']");
 //	private By search = By.name("search");
 //	private By unSucssSearchMesg = By.xpath("//h2[normalize-space()='Products meeting the search criteria']");
